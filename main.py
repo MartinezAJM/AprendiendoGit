@@ -1,6 +1,7 @@
 # Forma de importar 1 -> import example 
 # Forma de importar 2 -> from example import words, script2, script3 o *
 from example import words 
+from addition import suma
 
 # Proyecto para practicar ramas
 
