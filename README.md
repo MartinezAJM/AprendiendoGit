@@ -1,25 +1,27 @@
 # PROJECT RAMITAS/BRANCHES 🌿
 
-This project is to review the branch concept.
+This project is principally to review the branch concept and also to review all the things I'm learning about git, markdown and python.
 
 ---
 
-### CONCEPTS
+### LIST OF SOME IMPORTANT COMMANDS
 1. `git clone`
 2. markdown `README.md`
 3. Dejamos de ser racistas cambiando el nombre del branch de `master` a `main` con `git branch -M main`
 4. git commit -am "Message" or 
     * git commit -add -m "Message" | git commit -a -a "Message"
 
+---
 ### OTHER COMMANDS
 1. rm -rf <'directorio'>
 
+---
 ### MARKDOWN SINTAXIS
 
-# Heading Level 1 is with #
-## Heading Level 2 is with ##
-### Heading Level 3 is with ###
-#### Heading Level 4 is with ####
+# Heading Level 1 is with '#'
+## Heading Level 2 is with '##'
+### Heading Level 3 is with '###'
+#### Heading Level 4 is with '####'
 
 This is a normal paragraph. 
 
@@ -45,6 +47,8 @@ This is a text with ***italic and bold***
 [This is a link to Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 ---
-**Autor:** Vanessa Rubiera
-**Creation date:** 28/Marzo/2023
-**Last updated date:** 17/Marzo/2023
+**Autor:** *Vanessa Rubiera*
+
+**Creation date:** *28/Marzo/2023*
+
+**Last updated date:** *17/Marzo/2023*
